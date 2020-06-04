@@ -1,7 +1,7 @@
 # teaching-affair-management 
-教务管理系统 
-搭配环境 ：  
-使用maven环境更好地搭建和管理项目，服务器使用Tomcat7.0
+教务管理系统   
+搭配环境 ：    
+使用maven环境更好地搭建和管理项目，服务器使用Tomcat7.0  
 技术要求：  
 （后台）spring + spring MVC + Mybatis + mysql （SSM框架） 
 （前端）layui  
