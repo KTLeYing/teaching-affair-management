@@ -8,7 +8,7 @@
 
 ## 采用技术 ： 
 - 前端：HTML + CSS + JavaScript + Layui + Bootstrap + Jquery + Ajax
-- 后端： Spring Boot + MyBatis + Redis + Jwt + Shiro + AOP
+- 后端：Spring Boot + MyBatis + Redis + Jwt + Shiro + AOP
 
 ## 开发环境 ：
 - 工具：IDEA、Navicat、Git
