@@ -26,7 +26,7 @@
     <!-- spring版本号 -->
     <srping.version>4.3.8.RELEASE</srping.version>
     <!-- mybatis版本号 -->
-    <mybatis.version>3.4.5</mybatis.version>
+    <mybatis.version>3.5.6</mybatis.version>
     <slf4j.version>1.7.12</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
   </properties>
