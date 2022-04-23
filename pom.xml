@@ -24,7 +24,7 @@
 
     <!-- 用来设置版本号 -->
     <!-- spring版本号 -->
-    <srping.version>4.3.8.RELEASE</srping.version>
+    <srping.version>5.3.19</srping.version>
     <!-- mybatis版本号 -->
     <mybatis.version>3.4.5</mybatis.version>
     <slf4j.version>1.7.12</slf4j.version>
